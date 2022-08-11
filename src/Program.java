@@ -7,8 +7,8 @@ public class Program {
         System.out.println("""
             Welcome to Fizz Buzz!
             Submit a number and get an answer!
-            Program will work with integer.
-            To exit enter 'x'""");
+            Program will work with an integers.
+            To exit enter 'x' or 'X'.""");
 
         while (true) {
 
